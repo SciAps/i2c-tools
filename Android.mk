@@ -1,6 +1,6 @@
 LOCAL_PATH:= $(call my-dir)
 
-KERNEL_DIR := kernel
+#KERNEL_DIR := kernel
 
 include $(CLEAR_VARS)
 
